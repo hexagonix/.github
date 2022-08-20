@@ -9,7 +9,7 @@
 
 <details title="Obter o Hexagonix/Get Hexagonix" align='left'>
 <br>
-<summary align='left'><strong>1️⃣ Obter o Hexagonix/Get Hexagonix</strong></summary>
+<summary align='left'><strong>📀 Obter o Hexagonix/Get Hexagonix</strong></summary>
 
 * [Português (Brasil)](https://github.com/hexagonix/Doc/blob/main/Hexagonix/README.pt.md)
 * [English](https://github.com/hexagonix/Doc/blob/main/Hexagonix/README.en.md) 
@@ -18,7 +18,7 @@
 
 <details title="Documentação/documentation" align='left'>
 <br>
-<summary align='left'><strong>2️⃣ Documentação/documentation</strong></summary>
+<summary align='left'><strong>📚 Documentação/documentation</strong></summary>
 
 * [Clique aqui para ir à documentação do Hexagonix (em construção)](https://github.com/hexagonix/Doc)
 * [Click here to go to the Hexagonix documentation (under construction)](https://github.com/hexagonix/Doc)
@@ -27,7 +27,7 @@
 
 <details title="Construir o sistema/build the system" align='left'>
 <br>
-<summary align='left'><strong>3️⃣ Construir o sistema/build the system</strong></summary>
+<summary align='left'><strong>🛠 Construir o sistema/build the system</strong></summary>
 
 * [Construir o sistema (Brasil)](https://github.com/hexagonix/build/blob/main/README.pt.md)
 * [Build the system](https://github.com/hexagonix/build/blob/main/README.en.md)
@@ -36,7 +36,7 @@
 
 <details title="Lançamentos/releases" align='left'>
 <br>
-<summary align='left'><strong>4️⃣ Lançamentos/releases</strong></summary>
+<summary align='left'><strong>🗂 Lançamentos/releases</strong></summary>
 
 * [Português (Brasil)](https://github.com/hexagonix/Doc/blob/main/Hexagonix/REL.pt.md)
 * [English (under construction)](https://github.com/hexagonix/Doc/blob/main/Hexagonix/REL.en.md) 
@@ -45,7 +45,7 @@
 
 <details title="Licença/License" align='left'>
 <br>
-<summary align='left'><strong>5️⃣ Licença/License</strong></summary>
+<summary align='left'><strong>📝 Licença/License</strong></summary>
 
 Hexagonix Operating System
 
