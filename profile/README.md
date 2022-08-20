@@ -9,7 +9,7 @@
 
 <details title="Obter o Hexagonix/Get Hexagonix" align='left'>
 <br>
-<summary align='left'><strong>Obter o Hexagonix/Get Hexagonix"</strong></summary>
+<summary align='left'><strong>Obter o Hexagonix/Get Hexagonix</strong></summary>
 
 * [Português (Brasil)](https://github.com/hexagonix/Doc/blob/main/Hexagonix/README.pt.md)
 * [English](https://github.com/hexagonix/Doc/blob/main/Hexagonix/README.en.md) 
