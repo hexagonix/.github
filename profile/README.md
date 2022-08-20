@@ -2,36 +2,33 @@
 <!-- Vamos adicionar o logotipo do sistema -->
 
 <p align="center">
-<img src="https://github.com/hexagonix/Doc/blob/main/Img/Hexagonix.png" width="250" height="250">
+<img src="https://github.com/hexagonix/Doc/blob/main/Img/Hexagonix.png" width="200" height="200">
 </p>
 
 <hr>
 
-# Pegue um atalho/take a shortcut
+# Escolha seu idioma/choose your language
 
-* [Português (Brasil)](README.pt.md)
-* [English](README.en.md) 
+* [Português (Brasil)](https://github.com/hexagonix/Doc/blob/main/Hexagonix/README.pt.md)
+* [English](https://github.com/hexagonix/Doc/blob/main/Hexagonix/README.en.md) 
 
-<hr>
-
-# Instruções para construção/building instructions
-
-* [Português (Brasil)](https://github.com/hexagonix/build/blob/main/README.pt.md)
-* [English](https://github.com/hexagonix/build/blob/main/README.en.md) 
-
-<hr>
-
-## Documentação/documentation
+<details title="Documentação/documentation" align='left'>
+<br>
+<summary align='left'><strong>Documentação/documentation</strong></summary>
 
 * [Clique aqui para ir à documentação do Hexagonix (em construção)](https://github.com/hexagonix/Doc)
 * [Click here to go to the Hexagonix documentation (under construction)](https://github.com/hexagonix/Doc)
 
-<hr>
+</details>
 
-## Lançamentos/releases
+<details title="Lançamentos/releases" align='left'>
+<br>
+<summary align='left'><strong>Lançamentos/releases</strong></summary>
 
-* [Português (Brasil)](REL.pt.md)
-* [English (under construction)](REL.en.md) 
+* [Português (Brasil)](https://github.com/hexagonix/Doc/blob/main/Hexagonix/REL.pt.md)
+* [English (under construction)](https://github.com/hexagonix/Doc/blob/main/Hexagonix/REL.en.md) 
+
+</details>
 
 <hr>
 
@@ -46,6 +43,8 @@
 [![hexagonix](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=hexagonix&theme=dark)](https://github.com/hexagonix/hexagonix)
 [![build](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=build&theme=dark)](https://github.com/hexagonix/build)
 
-<!-- Versão do arquivo: 2.2 -->
+<!-- Versão do arquivo: 2.2
 
 Copyright © 2015-2022 Felipe Miguel Nery Lunkes
+
+-->
