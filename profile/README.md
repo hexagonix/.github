@@ -21,6 +21,19 @@
 
 </details>
 
+<hr>
+
+<details title="Construir o sistema/build the system" align='left'>
+<br>
+<summary align='left'><strong>Construir o sistema/build the system</strong></summary>
+
+* [Construir o sistema (Brasil)](https://github.com/hexagonix/build/blob/main/README.pt.md)
+* [Build the system](https://github.com/hexagonix/build/blob/main/README.en.md)
+
+</details>
+
+<hr>
+
 <details title="Lançamentos/releases" align='left'>
 <br>
 <summary align='left'><strong>Lançamentos/releases</strong></summary>
