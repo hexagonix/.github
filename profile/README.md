@@ -2,15 +2,19 @@
 <!-- Vamos adicionar o logotipo do sistema -->
 
 <p align="center">
-<img src="https://github.com/hexagonix/Doc/blob/main/Img/Hexagonix.png" width="200" height="200">
+<img src="https://github.com/hexagonix/Doc/blob/main/Img/Hexagonix.png" width="180" height="180">
 </p>
 
 <hr>
 
-# Escolha seu idioma/choose your language
+<details title="Obter o Hexagonix/Get Hexagonix" align='left'>
+<br>
+<summary align='left'><strong>Obter o Hexagonix/Get Hexagonix"</strong></summary>
 
 * [Português (Brasil)](https://github.com/hexagonix/Doc/blob/main/Hexagonix/README.pt.md)
 * [English](https://github.com/hexagonix/Doc/blob/main/Hexagonix/README.en.md) 
+
+</details>
 
 <details title="Documentação/documentation" align='left'>
 <br>
@@ -21,8 +25,6 @@
 
 </details>
 
-<hr>
-
 <details title="Construir o sistema/build the system" align='left'>
 <br>
 <summary align='left'><strong>Construir o sistema/build the system</strong></summary>
@@ -31,8 +33,6 @@
 * [Build the system](https://github.com/hexagonix/build/blob/main/README.en.md)
 
 </details>
-
-<hr>
 
 <details title="Lançamentos/releases" align='left'>
 <br>
