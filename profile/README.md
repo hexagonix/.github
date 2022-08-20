@@ -81,9 +81,9 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 </details>
 
-<hr>
-
-## Repositórios principais/main repositories
+<details title="Repositórios principais/main repositories" align='left'>
+<br>
+<summary align='left'><strong>📦 Repositórios principais/main repositories</strong></summary>
 
 [![Hexagon Kernel](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=Hexagon&theme=dark)](https://github.com/hexagonix/Hexagon)
 [![HBoot](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=HBoot&theme=dark)](https://github.com/hexagonix/Hboot)
@@ -94,8 +94,10 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 [![hexagonix](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=hexagonix&theme=dark)](https://github.com/hexagonix/hexagonix)
 [![build](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=build&theme=dark)](https://github.com/hexagonix/build)
 
-<!-- Versão do arquivo: 2.2
+</details>
 
-Copyright © 2015-2022 Felipe Miguel Nery Lunkes
+<!-- Versão do arquivo: 1.0
+
+Copyright © 2022 Felipe Miguel Nery Lunkes
 
 -->
