@@ -45,7 +45,7 @@
 <br>
 <summary align='left'><strong>📝 Licença/License</strong></summary>
 
-<div align=justify">
+<div align="justify">
 
 Hexagonix Operating System
 
