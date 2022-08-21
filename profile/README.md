@@ -20,8 +20,8 @@
 <br>
 <summary align='left'><strong>📚 Documentação/documentation</strong></summary>
 
-* [Clique aqui para ir à documentação do Hexagonix (em construção)](https://github.com/hexagonix/Doc)
-* [Click here to go to the Hexagonix documentation (under construction)](https://github.com/hexagonix/Doc)
+* [Português (Brasil) - em construção](https://github.com/hexagonix/Doc)
+* [English - under construction](https://github.com/hexagonix/Doc)
 
 </details>
 
@@ -29,8 +29,8 @@
 <br>
 <summary align='left'><strong>🛠 Construir o sistema/build the system</strong></summary>
 
-* [Construir o sistema (Brasil)](https://github.com/hexagonix/build/blob/main/README.pt.md)
-* [Build the system](https://github.com/hexagonix/build/blob/main/README.en.md)
+* [Português (Brasil)](https://github.com/hexagonix/build/blob/main/README.pt.md)
+* [English](https://github.com/hexagonix/build/blob/main/README.en.md)
 
 </details>
 
@@ -51,7 +51,7 @@ Hexagonix Operating System
 
 BSD 3-Clause License
 
-Copyright (c) 2015-2022, Felipe Miguel Nery Lunkes
+Copyright (c) 2015-2022, Felipe Miguel Nery Lunkes <br>
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
