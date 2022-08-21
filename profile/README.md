@@ -1,8 +1,8 @@
 
 <!-- Vamos adicionar o logotipo do sistema -->
 
-<p align="right">
-<img src="https://github.com/hexagonix/Doc/blob/main/Img/Hexagonix.png" width="150" height="150">
+<p>
+<img align="right" src="https://github.com/hexagonix/Doc/blob/main/Img/Hexagonix.png" width="150" height="150">
 </p>
 
 <details title="Obter o Hexagonix/Get Hexagonix" align='left'>
