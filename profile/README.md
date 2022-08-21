@@ -1,7 +1,7 @@
 
 <!-- Vamos adicionar o logotipo do sistema -->
 
-<p>
+<p align="center">
 <img align="center" src="https://github.com/hexagonix/Doc/blob/main/Img/Hexagonix.png" width="180" height="180">
 </p>
 
