@@ -2,7 +2,7 @@
 <!-- Vamos adicionar o logotipo do sistema -->
 
 <p align="center">
-<img align="center" src="https://github.com/hexagonix/Doc/blob/main/Img/Hexagonix.png" width="180" height="180">
+<img align="center" src="https://github.com/hexagonix/Doc/blob/main/Img/banner.png" width="180" height="180">
 </p>
 
 <div align="center">
