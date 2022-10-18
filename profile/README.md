@@ -52,7 +52,7 @@
 <summary align='left'><strong>🗂 Lançamentos/releases</strong></summary>
 
 * [Português (Brasil)](https://github.com/hexagonix/Doc/blob/main/Hexagonix/REL.pt.md)
-* [English (under construction)](https://github.com/hexagonix/Doc/blob/main/Hexagonix/REL.en.md) 
+* [English](https://github.com/hexagonix/Doc/blob/main/Hexagonix/REL.en.md) 
 
 </details>
 
