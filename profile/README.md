@@ -22,7 +22,7 @@
 
 <details title="Obter o Hexagonix/Get Hexagonix" align='left'>
 <br>
-<summary align='left'><strong>📀 Obter o Hexagonix/Get Hexagonix</strong></summary>
+<summary align='left'>📀 Obter o Hexagonix/Get Hexagonix</summary>
 
 * [Português (Brasil)](https://github.com/hexagonix/Doc/blob/main/Hexagonix/README.pt.md)
 * [English](https://github.com/hexagonix/Doc/blob/main/Hexagonix/README.en.md) 
@@ -31,7 +31,7 @@
 
 <details title="Documentação/documentation" align='left'>
 <br>
-<summary align='left'><strong>📚 Documentação/documentation</strong></summary>
+<summary align='left'>📚 Documentação/documentation</summary>
 
 * [Português (Brasil) - em construção](https://github.com/hexagonix/Doc)
 * [English - under construction](https://github.com/hexagonix/Doc)
@@ -40,7 +40,7 @@
 
 <details title="Construir o sistema/build the system" align='left'>
 <br>
-<summary align='left'><strong>🛠 Construir o sistema/build the system</strong></summary>
+<summary align='left'>🛠 Construir o sistema/build the system</summary>
 
 * [Português (Brasil)](https://github.com/hexagonix/build/blob/main/README.pt.md)
 * [English](https://github.com/hexagonix/build/blob/main/README.en.md)
@@ -49,7 +49,7 @@
 
 <details title="Lançamentos/releases" align='left'>
 <br>
-<summary align='left'><strong>🗂 Lançamentos/releases</strong></summary>
+<summary align='left'>🗂 Lançamentos/releases</summary>
 
 * [Português (Brasil)](https://github.com/hexagonix/Doc/blob/main/Hexagonix/REL.pt.md)
 * [English](https://github.com/hexagonix/Doc/blob/main/Hexagonix/REL.en.md) 
@@ -58,7 +58,7 @@
 
 <details title="Licença/License" align='left'>
 <br>
-<summary align='left'><strong>📝 Licença/License</strong></summary>
+<summary align='left'>📝 Licença/License</summary>
 
 <div align="justify">
 
@@ -100,7 +100,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 <details title="Repositórios principais/main repositories" align='left'>
 <br>
-<summary align='left'><strong>📦 Repositórios principais/main repositories</strong></summary>
+<summary align='left'>📦 Repositórios principais/main repositories</summary>
 
 [![Hexagon Kernel](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=Hexagon&theme=dark)](https://github.com/hexagonix/Hexagon)
 [![HBoot](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=HBoot&theme=dark)](https://github.com/hexagonix/Hboot)
