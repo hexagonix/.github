@@ -25,7 +25,7 @@
 
 <div align="center">
 
-<h1>Bem vindo ao Hexagonix! - Welcome to Hexagonix!<h1>
+<h1>Bem vindo ao Hexagonix! - Welcome to Hexagonix!</h1>
 
 </div>
 
