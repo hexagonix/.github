@@ -23,12 +23,6 @@
 
 <img src="https://github.com/hexagonix/Doc/blob/main/Img/hr.png" width="100%" height="2px" />
 
-<div align="center">
-
-<h1>Bem vindo ao Hexagonix! - Welcome to Hexagonix!</h1>
-
-</div>
-
 <details title="Sobre o Hexagonix/About Hexagonix" align='left'>
 <br>
 <summary align='left'>❤ Sobre o Hexagonix/About Hexagonix</summary>
