@@ -27,8 +27,8 @@
 <br>
 <summary align='left'>❤ Sobre o Hexagonix/About Hexagonix</summary>
 
-* [Português (Brasil)](https://github.com/hexagonix/Doc/blob/main/Hexagonix/Hexagonix.pt.md)
-* [English](https://github.com/hexagonix/Doc/blob/main/Hexagonix/Hexagonix.en.md) 
+* :brazil: [Português (Brasil)](https://github.com/hexagonix/Doc/blob/main/Hexagonix/Hexagonix.pt.md)
+* :uk: [English](https://github.com/hexagonix/Doc/blob/main/Hexagonix/Hexagonix.en.md) 
 
 </details>
 
@@ -36,8 +36,8 @@
 <br>
 <summary align='left'>📀 Obter o Hexagonix/Get Hexagonix</summary>
 
-* [Português (Brasil)](https://github.com/hexagonix/Doc/blob/main/Hexagonix/README.pt.md)
-* [English](https://github.com/hexagonix/Doc/blob/main/Hexagonix/README.en.md) 
+* :brazil: [Português (Brasil)](https://github.com/hexagonix/Doc/blob/main/Hexagonix/README.pt.md)
+* :uk: [English](https://github.com/hexagonix/Doc/blob/main/Hexagonix/README.en.md) 
 
 </details>
 
@@ -45,8 +45,8 @@
 <br>
 <summary align='left'>📚 Documentação/documentation</summary>
 
-* [Português (Brasil)](https://github.com/hexagonix/Doc)
-* [English](https://github.com/hexagonix/Doc)
+* :brazil: [Português (Brasil)](https://github.com/hexagonix/Doc)
+* :uk: [English](https://github.com/hexagonix/Doc)
 
 </details>
 
@@ -54,8 +54,8 @@
 <br>
 <summary align='left'>🛠 Construir o sistema/build the system</summary>
 
-* [Português (Brasil)](https://github.com/hexagonix/build/blob/main/README.pt.md)
-* [English](https://github.com/hexagonix/build/blob/main/README.en.md)
+* :brazil: [Português (Brasil)](https://github.com/hexagonix/build/blob/main/README.pt.md)
+* :uk: [English](https://github.com/hexagonix/build/blob/main/README.en.md)
 
 </details>
 
@@ -63,8 +63,8 @@
 <br>
 <summary align='left'>🗂 Lançamentos/releases</summary>
 
-* [Português (Brasil)](https://github.com/hexagonix/Doc/blob/main/Hexagonix/REL.pt.md)
-* [English](https://github.com/hexagonix/Doc/blob/main/Hexagonix/REL.en.md) 
+* :brazil: [Português (Brasil)](https://github.com/hexagonix/Doc/blob/main/Hexagonix/REL.pt.md)
+* :uk: [English](https://github.com/hexagonix/Doc/blob/main/Hexagonix/REL.en.md) 
 
 </details>
 
@@ -127,6 +127,6 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 <!-- Versão do arquivo: 1.0
 
-Copyright © 2022 Felipe Miguel Nery Lunkes
+Copyright © 2023 Felipe Miguel Nery Lunkes
 
 -->
