@@ -32,9 +32,9 @@
 
 </details>
 
-<details title="Obter o Hexagonix/Get Hexagonix" align='left'>
+<details title="Obter e executar o Hexagonix/Get and run Hexagonix" align='left'>
 <br>
-<summary align='left'>📀 Obter o Hexagonix/Get Hexagonix</summary>
+<summary align='left'>📀 Obter e executar o Hexagonix/Get and run Hexagonix</summary>
 
 * :brazil: [Português (Brasil)](https://github.com/hexagonix/Doc/blob/main/Hexagonix/README.pt.md)
 * :uk: [English](https://github.com/hexagonix/Doc/blob/main/Hexagonix/README.en.md) 
