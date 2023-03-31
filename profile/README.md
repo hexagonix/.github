@@ -41,6 +41,15 @@
 
 </details>
 
+<details title="Lançamentos/releases" align='left'>
+<br>
+<summary align='left'>🗂 Lançamentos/releases</summary>
+
+* :brazil: [Português (Brasil)](https://github.com/hexagonix/Doc/blob/main/Hexagonix/REL.pt.md)
+* :uk: [English](https://github.com/hexagonix/Doc/blob/main/Hexagonix/REL.en.md) 
+
+</details>
+
 <details title="Obter o código-fonte/Get the sources" align='left'>
 <br>
 <summary align='left'>:abacus: Obter os códigos-fonte/Get the sources</summary>
@@ -65,15 +74,6 @@
 
 * :brazil: [Português (Brasil)](https://github.com/hexagonix/build/blob/main/README.pt.md)
 * :uk: [English](https://github.com/hexagonix/build/blob/main/README.en.md)
-
-</details>
-
-<details title="Lançamentos/releases" align='left'>
-<br>
-<summary align='left'>🗂 Lançamentos/releases</summary>
-
-* :brazil: [Português (Brasil)](https://github.com/hexagonix/Doc/blob/main/Hexagonix/REL.pt.md)
-* :uk: [English](https://github.com/hexagonix/Doc/blob/main/Hexagonix/REL.en.md) 
 
 </details>
 
