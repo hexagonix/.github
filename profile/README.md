@@ -25,7 +25,7 @@
 
 <details title="Sobre o Hexagonix/About Hexagonix" align='left'>
 <br>
-<summary align='left'>❤️ Sobre o Hexagonix/About Hexagonix</summary>
+<summary align='left'>:heart: Sobre o Hexagonix/About Hexagonix</summary>
 
 * :brazil: [Português (Brasil)](https://github.com/hexagonix/Doc/blob/main/Hexagonix/Hexagonix.pt.md)
 * :uk: [English](https://github.com/hexagonix/Doc/blob/main/Hexagonix/Hexagonix.en.md) 
@@ -34,7 +34,7 @@
 
 <details title="Obter e executar o Hexagonix/Get and run Hexagonix" align='left'>
 <br>
-<summary align='left'>📀 Obter e executar o Hexagonix/Get and run Hexagonix</summary>
+<summary align='left'>:dvd: Obter e executar o Hexagonix/Get and run Hexagonix</summary>
 
 * :brazil: [Português (Brasil)](https://github.com/hexagonix/Doc/blob/main/Hexagonix/README.pt.md)
 * :uk: [English](https://github.com/hexagonix/Doc/blob/main/Hexagonix/README.en.md) 
@@ -43,7 +43,7 @@
 
 <details title="Lançamentos/releases" align='left'>
 <br>
-<summary align='left'>🗂 Lançamentos/releases</summary>
+<summary align='left'>:rocket: Lançamentos/releases</summary>
 
 * :brazil: [Português (Brasil)](https://github.com/hexagonix/Doc/blob/main/Hexagonix/REL.pt.md)
 * :uk: [English](https://github.com/hexagonix/Doc/blob/main/Hexagonix/REL.en.md) 
@@ -61,7 +61,7 @@
 
 <details title="Documentação/documentation" align='left'>
 <br>
-<summary align='left'>📚 Documentação/documentation</summary>
+<summary align='left'>:books: Documentação/documentation</summary>
 
 * :brazil: [Português (Brasil)](https://github.com/hexagonix/Doc)
 * :uk: [English](https://github.com/hexagonix/Doc)
@@ -70,7 +70,7 @@
 
 <details title="Construir o sistema/build the system" align='left'>
 <br>
-<summary align='left'>🛠 Construir o sistema/build the system</summary>
+<summary align='left'>:hammer: Construir o sistema/build the system</summary>
 
 * :brazil: [Português (Brasil)](https://github.com/hexagonix/build/blob/main/README.pt.md)
 * :uk: [English](https://github.com/hexagonix/build/blob/main/README.en.md)
@@ -79,7 +79,7 @@
 
 <details title="Licença/License" align='left'>
 <br>
-<summary align='left'>📝 Licença/License</summary>
+<summary align='left'>:memo: Licença/License</summary>
 
 <div align="justify">
 
