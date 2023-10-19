@@ -41,15 +41,6 @@
 
 </details>
 
-<details title="Lançamentos/releases" align='left'>
-<br>
-<summary align='left'>:rocket: Lançamentos/releases</summary>
-
-* :brazil: [Português (Brasil)](https://github.com/hexagonix/Doc/blob/main/Hexagonix/REL.pt.md)
-* :uk: [English](https://github.com/hexagonix/Doc/blob/main/Hexagonix/REL.en.md) 
-
-</details>
-
 <details title="Obter o código-fonte/Get the sources" align='left'>
 <br>
 <summary align='left'>:abacus: Obter os códigos-fonte/Get the sources</summary>
@@ -59,21 +50,30 @@
 
 </details>
 
-<details title="Documentação/documentation" align='left'>
-<br>
-<summary align='left'>:books: Documentação/documentation</summary>
-
-* :brazil: [Português (Brasil)](https://github.com/hexagonix/Doc)
-* :uk: [English](https://github.com/hexagonix/Doc)
-
-</details>
-
 <details title="Construir o sistema/build the system" align='left'>
 <br>
 <summary align='left'>:hammer: Construir o sistema/build the system</summary>
 
 * :brazil: [Português (Brasil)](https://github.com/hexagonix/build/blob/main/README.pt.md)
 * :uk: [English](https://github.com/hexagonix/build/blob/main/README.en.md)
+
+</details>
+
+<details title="Lançamentos/releases" align='left'>
+<br>
+<summary align='left'>:rocket: Lançamentos/releases</summary>
+
+* :brazil: [Português (Brasil)](https://github.com/hexagonix/Doc/blob/main/Hexagonix/REL.pt.md)
+* :uk: [English](https://github.com/hexagonix/Doc/blob/main/Hexagonix/REL.en.md) 
+
+</details>
+
+<details title="Documentação/documentation" align='left'>
+<br>
+<summary align='left'>:books: Documentação/documentation</summary>
+
+* :brazil: [Português (Brasil)](https://github.com/hexagonix/Doc)
+* :uk: [English](https://github.com/hexagonix/Doc)
 
 </details>
 
