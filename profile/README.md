@@ -72,8 +72,8 @@
 <br>
 <summary align='left'>:books: Documentação/documentation</summary>
 
-* :brazil: [Português (Brasil)](https://github.com/hexagonix/Doc)
-* :uk: [English](https://github.com/hexagonix/Doc)
+* :brazil: [Português (Brasil)](https://github.com/hexagonix/Doc/blob/main/README.md#brazil-portugu%C3%AAs-brasil)
+* :uk: [English](https://github.com/hexagonix/Doc/blob/main/README.md#uk-english)
 
 </details>
 
