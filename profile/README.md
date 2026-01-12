@@ -23,8 +23,9 @@
 
 <img src="https://github.com/hexagonix/Doc/blob/main/Img/hr.png" width="100%" height="2px" />
 
-<br>
-<summary align='left'>:heart: Sobre o Hexagonix/About Hexagonix</summary>
+<div align="justify">
+  
+* :heart: Sobre o Hexagonix/About Hexagonix</summary>
 
 * :brazil: [Português (Brasil)](https://github.com/hexagonix/Doc/blob/main/Hexagonix/Hexagonix.pt.md)
 * :uk: [English](https://github.com/hexagonix/Doc/blob/main/Hexagonix/Hexagonix.en.md) 
@@ -35,33 +36,32 @@
 * :brazil: [Português (Brasil)](https://github.com/hexagonix/Doc/blob/main/Hexagonix/README.pt.md)
 * :uk: [English](https://github.com/hexagonix/Doc/blob/main/Hexagonix/README.en.md) 
 
-<br>
-<summary align='left'>:abacus: Obter os códigos-fonte/Get the sources</summary>
+* :abacus: Obter os códigos-fonte/Get the sources</summary>
 
 * :brazil: [Obter os códigos-fonte ](https://github.com/hexagonix/src)
 * :uk: [Get the sources](https://github.com/hexagonix/src) 
 
-<br>
-<summary align='left'>:hammer: Construir o sistema/build the system</summary>
+* :hammer: Construir o sistema/build the system</summary>
 
 * :brazil: [Português (Brasil)](https://github.com/hexagonix/build/blob/main/README.pt.md)
 * :uk: [English](https://github.com/hexagonix/build/blob/main/README.en.md)
 
-<br>
-<summary align='left'>:rocket: Lançamentos/releases</summary>
+* :rocket: Lançamentos/releases</summary>
 
 * :brazil: [Português (Brasil)](https://github.com/hexagonix/Doc/blob/main/Hexagonix/REL.pt.md)
 * :uk: [English](https://github.com/hexagonix/Doc/blob/main/Hexagonix/REL.en.md) 
 
-<br>
-<summary align='left'>:books: Documentação/documentation</summary>
+* :books: Documentação/documentation</summary>
 
 * :brazil: [Português (Brasil)](https://github.com/hexagonix/Doc/blob/main/README.md#brazil-portugu%C3%AAs-brasil)
 * :uk: [English](https://github.com/hexagonix/Doc/blob/main/README.md#uk-english)
 
-<br>
-<summary align='left'>:package: Repositórios principais/main repositories</summary>
+* :package: Repositórios principais/main repositories</summary>
 
+</div>
+
+<div align="center">
+  
 [![Hexagon Kernel](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=Hexagon&theme=dark)](https://github.com/hexagonix/Hexagon)
 [![HBoot](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=HBoot&theme=dark)](https://github.com/hexagonix/Hboot)
 [![Unix-Apps](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=unix-apps&theme=dark)](https://github.com/hexagonix/unix-apps)
@@ -70,6 +70,8 @@
 [![fasmX](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=fasmx&theme=dark)](https://github.com/hexagonix/fasmx)
 [![hexagonix](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=hexagonix&theme=dark)](https://github.com/hexagonix/hexagonix)
 [![build](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=build&theme=dark)](https://github.com/hexagonix/build)
+
+</div>
 
 <!-- Versão do arquivo: 1.0
 
